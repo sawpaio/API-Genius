@@ -1,0 +1,5 @@
+Flask==2.0.1
+requests==2.25.1
+urllib3==1.26.6
+boto3==1.17.105
+uuid==1.30
